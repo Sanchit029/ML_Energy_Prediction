@@ -1,0 +1,7 @@
+saved_model
+|   |-ocean_model.pkl
+|   |-ocean_scaler.pkl
+|   |-solar_model.pkl
+|   |-solar_scaler.pkl
+|   |-solar_model.pkl
+|   |-solar_scaler.pkl
